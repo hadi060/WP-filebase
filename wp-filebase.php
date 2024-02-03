@@ -1,11 +1,11 @@
 <?php
 
 /*
-  Plugin Name: WP-Filebase Pro
-  Plugin URI:  https://wpfilebase.com/
+  Plugin Name: WP-Filebase Pro Extended
+  Plugin URI:  https://www.hadithemes.com/
   Description: Adds a powerful downloads manager supporting file categories, download counter, widgets, sorted file lists and more to your WordPress blog.
   Version:     3.4.32
-  Author:      Fabian Schlieper
+  Author:      Abdelhadi Touil
   Author URI:  https://fabi.me/
   Domain Path: /languages
   Text Domain: wp-filebase
